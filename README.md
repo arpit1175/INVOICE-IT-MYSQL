@@ -1,8 +1,6 @@
 # INVOICE-IT-MYSQL
 
-
-https://user-images.githubusercontent.com/107264496/212258397-c9e355cc-4033-49c5-b09c-270096d1fd28.mp4
-
+https://user-images.githubusercontent.com/107264496/212258651-2ccee610-32d8-4dee-baa5-4a6a717eb2db.mp4
 
 
 # Key Features
