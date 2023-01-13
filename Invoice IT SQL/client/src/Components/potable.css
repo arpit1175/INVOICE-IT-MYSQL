@@ -1,0 +1,19 @@
+.icons{
+    cursor: pointer;
+    
+}
+
+.container{
+    overflow: auto;
+}
+
+.search{
+    width: 400px;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
